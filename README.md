@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'M Eliabe dos Santos
+## I'm Eliabe dos Santos
 
 - I live in 🇧🇷
 - I am currently studying at the Federal University of Rio Grande do Norte, in the Information Technology course 💻
