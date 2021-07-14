@@ -28,7 +28,7 @@
 <img alt="bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></img>
 <img alt="firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="max-width:100%;"></img>
 <img alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;"></img>
-<img alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width:100%;"></img>
+<img alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width:100%;">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabedossantos&show_icons=true&theme=tokyonight)
