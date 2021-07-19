@@ -2,8 +2,8 @@
 ## I'm Eliabe dos Santos
 
 - I live in 🇧🇷
-- I am currently studying at the Federal University of Rio Grande do Norte, in the Information Technology course 💻
-- I have been learning more about Front end development 
+- I am a student at the Federal University of Rio Grande do Norte in the information technology course 💻
+- I’m currently learning about Front end development 
 
 ## Connect with me:
 
