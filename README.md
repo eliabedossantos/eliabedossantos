@@ -2,8 +2,10 @@
 ## I'm Eliabe dos Santos
 
 - I live in 🇧🇷
-- I am a student at the Federal University of Rio Grande do Norte in the information technology course 💻
-- I’m currently learning about Front end development 
+- I am a front-end developer at MaxMeio  💻
+- I’m currently learning about React.js, React Native and TailWind Css
+
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." ~Calvin Coolidge
 
 ## Connect with me:
 
@@ -26,10 +28,13 @@
 <img alt="css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;"></img>
 <img alt="bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></img>
 <img alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
-<img alt="php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;"></img>
 <img alt="firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="max-width:100%;"></img>
 <img alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;"></img>
 <img alt="github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width:100%;">
+<img alt="tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="max-width:100%;">
+<img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-width:100%;">
+<img alt="graphql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="max-width:100%;">
+<img alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width:100%;">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabedossantos&show_icons=true&theme=tokyonight)
