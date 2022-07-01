@@ -38,8 +38,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabedossantos&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliabedossantos)](https://github.com/eliabedossantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliabedossantos&theme=tokyonight)](https://github.com/eliabedossantos/github-readme-stats)
 <br>
 
 ![Snake animation](https://github.com/eliabedossantos/eliabedossantos/blob/output/github-contribution-grid-snake.svg)
