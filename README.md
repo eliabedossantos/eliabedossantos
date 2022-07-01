@@ -36,9 +36,12 @@
 <img alt="graphql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="max-width:100%;">
 <img alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width:100%;">
 
+<div 
+style="display:flex; align-items:center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabedossantos&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliabedossantos&theme=tokyonight)](https://github.com/eliabedossantos/github-readme-stats)
+</div>
 <br>
 
 ![Snake animation](https://github.com/eliabedossantos/eliabedossantos/blob/output/github-contribution-grid-snake.svg)
