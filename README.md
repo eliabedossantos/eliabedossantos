@@ -3,7 +3,8 @@
 
 - I live in 🇧🇷
 - I am a Mobile developer at Adekz TI 
-- I’m currently learning about React Native and GPT-3
+- I’m currently learning about Kotlin
+
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful." ~Calvin Coolidge
 
 ## Connect with me:
